@@ -1,17 +1,17 @@
 [
   {
-    "id": "digital-nomad-visas-tax-hub-discord-20260915-1",
-    "title": "Stock Market Discord Hub",
-    "platform": "Discord",
-    "category": "Trading & Stocks",
-    "memberCount": "110,000+ members",
-    "description": "Active market discord providing live voice trading rooms, technical chart analysis, and economic calendar feeds.",
-    "joinUrl": "https://discord.gg/stocks",
+    "id": "digital-nomad-visas-tax-hub-reddit-20260915-1",
+    "title": "r/digitalnomad Visas & Remote Tax Forum",
+    "platform": "Reddit",
+    "category": "Digital Nomad Lifestyle",
+    "memberCount": "2,400,000+ members",
+    "description": "The definitive hub for remote workers navigating Schengen 90/180 rules, European DNVs, territorial tax regimes, and nomad banking.",
+    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
     "tags": [
-      "stocks",
-      "trading",
-      "discord",
-      "market"
+      "digital-nomad",
+      "visas",
+      "tax",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
@@ -161,24 +161,6 @@
       "relocation",
       "visas",
       "global"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "digital-nomad-visas-global-tax-residency-hub-reddit-5",
-    "title": "r/digitalnomad Location Independent Living",
-    "platform": "Reddit",
-    "category": "Digital Nomads",
-    "memberCount": "2,350,000+ members",
-    "description": "The world's largest community for location-independent entrepreneurs, remote workers, tax optimization, and coliving hubs.",
-    "joinUrl": "https://www.reddit.com/r/digitalnomad/",
-    "tags": [
-      "digitalnomad",
-      "remotework",
-      "travel",
-      "nomad"
     ],
     "verified": true,
     "featured": false,
